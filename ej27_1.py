@@ -9,6 +9,7 @@ class restaurante:
     def abrir_restaurante(self):
         print(f"El restaurante {self.nombre} está abierto.")
 
-mi_restaurante = restaurante("Luigi, il conto, per favore.", "italiana")
-mi_restaurante.describir_restaurante()
-mi_restaurante.abrir_restaurante()
+if __name__ == "__main__":
+    mi_restaurante = restaurante("Luigi, il conto, per favore.", "italiana")
+    mi_restaurante.describir_restaurante()
+    mi_restaurante.abrir_restaurante()

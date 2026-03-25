@@ -1,0 +1,5 @@
+en python podes editar strings
+en python podes hacer listas y editarlas
+en python podes importar funciones
+en python podes definir clases
+en python podes simular loterias
